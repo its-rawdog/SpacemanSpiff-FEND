@@ -30,4 +30,3 @@ by human lasers.
 
       If you survive the onslaught of lasers and make it to mars you will be crowned victorious
 # SpacemanSpiff-FEND
-# SpacemanSpiff-FEND
